@@ -16,6 +16,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('Prueba gitgithub','PruebaGit@index');
-
-Route::get('Prueba ','PruebaGit@index');
+Route::get('inicio','SitioWebController@inicio');
+Route::get('timeline','SitioWebController@timeline');
+Route::get('about','SitioWebController@about');
+Route::get('contact','SitioWebController@contact');
