@@ -20,3 +20,4 @@ Route::get('inicio','SitioWebController@inicio');
 Route::get('timeline','SitioWebController@timeline');
 Route::get('about','SitioWebController@about');
 Route::get('contact','SitioWebController@contact');
+Route::get('paquete','SitioWebController@paquete');
