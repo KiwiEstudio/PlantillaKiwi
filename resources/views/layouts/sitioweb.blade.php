@@ -27,13 +27,13 @@
                     </section>
                     <nav class="tm-main-nav">
                         <ul class="tm-main-nav-ul">
-                            <li class="tm-nav-item"><a href="{{url('inicio')}}" class="tm-nav-item-link tm-button active">Gallery</a>
+                            <li class="tm-nav-item"><a href="{{url('inicio')}}" class="tm-nav-item-link tm-button">Inicio</a>
                             </li>
-                            <li class="tm-nav-item"><a href="{{url('timeline')}}" class="tm-nav-item-link tm-button">Timeline</a>
+                            <li class="tm-nav-item"><a href="{{url('galeria')}}" class="tm-nav-item-link tm-button ">Galeria</a>
                             </li>
-                            <li class="tm-nav-item"><a href="{{url('about')}}" class="tm-nav-item-link tm-button">About</a>
+                            <li class="tm-nav-item"><a href="{{url('timeline')}}" class="tm-nav-item-link tm-button">Paquetes</a>
                             </li>
-                            <li class="tm-nav-item"><a href="{{url('contact')}}" class="tm-nav-item-link tm-button">Contact</a>
+                            <li class="tm-nav-item"><a href="{{url('contact')}}" class="tm-nav-item-link tm-button">Contacto</a>
                             </li>
                         </ul>
                     </nav>
