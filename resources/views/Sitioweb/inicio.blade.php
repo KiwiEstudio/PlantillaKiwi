@@ -1,6 +1,9 @@
 @extends('layouts.sitioweb')
 @section('seccion')
 <div class="tm-main-content">
+<div class="tm-content-box tm-content-box-home">                        
+                    <img src="{{asset('assets/img/1080x360-01.jpg')}}" alt="Image" class="img-fluid tm-welcome-img">
+                </div>
                 <div class="row mb-5">
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center mb-md-0 mb-4"><img src="{{asset('assets/img/575x400-01.jpg')}}" alt="Image" class="img-fluid"></div>
                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 pl-md-4 tm-flex-center">
