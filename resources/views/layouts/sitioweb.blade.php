@@ -14,15 +14,13 @@
    
       </head>
 
-      <body>
+     <body>
         <div class="container-fluid">
             <div class="tm-body">
                 <div class="tm-sidebar sticky">
                     <section id="welcome" class="tm-content-box tm-banner margin-b-6">
                         <div class="tm-banner-inner">
-                            <i class="fa fa-film fa-4x margin-b-20"></i>
-                            <h1 class="tm-banner-title">Mason</h1>
-                            <p class="tm-banner-subtitle">new HTML template</p>                   
+                             <img src="{{asset('assets/img/8.jpg')}}" alt="Image" class="img-fluid" width="200" align="text-center" >                  
                         </div>                    
                     </section>
                     <nav class="tm-main-nav">
